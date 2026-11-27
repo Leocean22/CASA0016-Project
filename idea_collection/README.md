@@ -11,7 +11,7 @@ a touchable temperature colck
 | Peltier Module | TEC1-12702, 12V | 1 |
 | Motor Driver | DRV8871 | 1 |
 | Aluminium Plate | Ø60 × 3 mm | 1 |
-| Temperature Sensors | NTC 10K B3950 | 2 |
+| Temperature Sensors | NTC 10K MF52103 5% | 2 |
 | Vibration Sensor | SW-420 | 1 |
 | Buzzer | Passive Buzzer Module | 1 |
 | Heatsink | 40 × 40 mm | 1 |
